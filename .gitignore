@@ -1,1 +1,2 @@
-description.txt.orig
+*.orig
+#this is ignore for eclipse
