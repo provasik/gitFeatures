@@ -1,6 +1,3 @@
 This is first line of code
-<<<<<<< HEAD
 This is second line and fourth
-=======
-This is second line and third
->>>>>>> 69188db03ac3d8432a77832004b496f1ce091588
+
